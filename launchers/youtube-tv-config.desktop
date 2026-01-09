@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=YouTube TV (Configure)
+Comment=Configure profile, install extensions, user-agent
+Exec=__FIREFOX__ --no-remote --profile __PROFILE__
+Icon=__ICON__
+Terminal=false
+Type=Application
+Categories=Settings;WebBrowser;
+StartupWMClass=firefox

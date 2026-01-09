@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=YouTube TV
+Comment=Ad-free YouTube TV (Kiosk Mode)
+Exec=__FIREFOX__ --kiosk --no-remote -new-instance --profile __PROFILE__ https://www.youtube.com/tv
+Icon=__ICON__
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;TV;
+StartupWMClass=firefox
